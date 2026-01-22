@@ -1,5 +1,5 @@
 ## Docker Hub Repository
-My Docker Hub repository with the ToDo app image: https://hub.docker.com/repository/docker/mutnenka/todoapp
+My Docker Hub repository with the ToDo app image: https://hub.docker.com/repository/docker/mutnenka/todoapp/tags/1.0.0
 
 ## Building the Docker Image
 Make sure you are in the root folder of the ToDo app (where `Dockerfile` and `requirements.txt` are located).
